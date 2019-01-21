@@ -1,5 +1,3 @@
-$deli_counter = []
-
 def line (line)
 	if line.length != 0
 		display_line = "The line is currently:"
